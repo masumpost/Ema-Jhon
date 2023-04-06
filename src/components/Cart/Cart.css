@@ -5,3 +5,14 @@
     top: 0;
     height: 400px;
 }
+
+.clearBtn{
+    display: flex;
+    padding: 10px;
+    width: 90%;
+    height: 40px;
+    font-size: 20px;
+    justify-content: space-between;
+    background-color: red;
+    color: white;
+}

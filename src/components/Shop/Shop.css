@@ -8,3 +8,19 @@
     gap: 45px;
     margin: 50px;
 }
+
+.review-order{
+    display: flex;
+    padding: 10px;
+    width: 90%;
+    height: 40px;
+    justify-content: space-between;
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.review-link{
+    text-decoration: none;
+}
