@@ -1,0 +1,43 @@
+.form-container{
+  height: 500px;
+  width: 400px;
+  border: 1px solid gray;
+  border-radius: 8px;
+  margin: 40px auto;
+  padding-left: 50px;
+}
+.label-email{
+    display: block;
+    margin:15px 0 ;
+}
+.input-box{
+    width: 320px;
+    height: 40px;
+    font-size: 21px;
+    border-radius: 5px;
+}
+
+.login-btn{
+    width: 320px;
+    height: 40px;
+    margin: 20px 0;
+    background-color: rgba(255, 153, 0, 0.3);
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+}
+
+
+.login-btn:hover{
+    background-color:rgba(255, 153, 0, 1.5);
+}
+.f-title{
+    font-size: 32px;
+    line-height: 40px;
+    font-weight: 400px;
+}
+
+.link{
+    text-decoration: none;
+    color:#FF9900;
+}
