@@ -2,3 +2,11 @@
     height: 600px;
 }
 
+.dot{
+    margin-left: 40px;
+}
+
+.error{
+    color: rgb(228, 20, 20);
+    margin-bottom: 5px;
+}
